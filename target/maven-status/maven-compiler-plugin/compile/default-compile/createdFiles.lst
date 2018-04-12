@@ -1,0 +1,13 @@
+fr\diginamic\ProjetHeritage\animal\Animal.class
+fr\diginamic\ProjetExempleHeritage\Aliment\Plante.class
+fr\diginamic\ProjetExempleHeritage\animaux\Lion.class
+fr\diginamic\ProjetExempleHeritage\Aliment\Aliment.class
+fr\diginamic\ProjetExempleHeritage\animaux\Hyene.class
+fr\diginamic\ProjetExempleHeritage\animaux\Lapin.class
+fr\diginamic\ProjetExempleHeritage\regime\Omnivore.class
+fr\diginamic\ProjetExempleHeritage\main\main.class
+fr\diginamic\ProjetExempleHeritage\Aliment\Viande.class
+fr\diginamic\ProjetExempleHeritage\regime\Herbivore.class
+fr\diginamic\ProjetExempleHeritage\regime\Regime.class
+fr\diginamic\ProjetExempleHeritage\regime\Carnivore.class
+fr\diginamic\ProjetExempleHeritage\animaux\Homme.class
